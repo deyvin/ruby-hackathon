@@ -6,3 +6,10 @@ gem 'sinatra', require: 'sinatra'
 
 #toXml Format
 gem 'gyoku', '~> 1.0'
+
+#MiniCache is a lightweight in-memory key-value store for Ruby objects. This gem requires Ruby version 2.3.0 or higher.
+gem 'mini_cache'
+
+gem 'byebug'
+
+gem 'json'
