@@ -11,6 +11,9 @@ GEM
     mini_cache (1.1.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
+    nio4r (2.5.8)
+    puma (6.0.2)
+      nio4r (~> 2.0)
     rack (2.2.6.2)
     rack-protection (3.0.5)
       rack
@@ -45,6 +48,7 @@ DEPENDENCIES
   gyoku (~> 1.0)
   json
   mini_cache
+  puma
   rake
   rspec
   sinatra
