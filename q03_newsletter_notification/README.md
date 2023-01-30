@@ -1,0 +1,1 @@
+`rspec spec/news_letter_controller.spec.rb`
